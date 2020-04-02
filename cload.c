@@ -22,7 +22,6 @@
  */
 
 
-#define _BSD_SOURCE
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
