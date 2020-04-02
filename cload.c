@@ -32,7 +32,7 @@
 #include <sys/resource.h>
 #include <curses.h>
 
-#define NHIST 200
+#define NHIST 400
 unsigned int Interval = 3;
 double History[NHIST];
 WINDOW *w;
